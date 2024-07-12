@@ -1,17 +1,15 @@
 ---
-layout: lesson
-root: .  # Is the only page that doesn't follow the pattern /:path/index.html
-permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
+site: sandpaper::sandpaper_site
 ---
-FIXME: home page introduction
 
-<!-- this is an html comment -->
+What is Project Management? Why is it helpful in software development?
+In this lesson, we explore these questions and investigate different
+methodologies for getting software development work done.
 
-{% comment %} This is a comment in Liquid {% endcomment %}
+::::::::::::::::::::::::::::::::::::::::::  prereq
 
-> ## Prerequisites
->
-> FIXME
-{: .prereq}
+## Prerequisites
 
-{% include links.md %}
+There are no specific prerequisites for this lesson.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
